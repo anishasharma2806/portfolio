@@ -115,7 +115,7 @@ export function Navbar() {
           <div className="flex items-center gap-3 flex-shrink-0">
             <a
               href={profile.resumeUrl}
-              download
+              download="Anisha_Sharma_Resume.pdf"
               className="group relative hidden sm:flex items-center gap-2 px-4 sm:px-5 py-2 sm:py-2.5 overflow-hidden rounded-full border border-gold/30 hover:border-gold transition-colors"
             >
               <span className="relative z-10 flex items-center gap-2 font-sans text-xs sm:text-sm tracking-wide text-gold/90 group-hover:text-ink transition-colors">
