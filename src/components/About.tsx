@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { GraduationCap, Download } from "lucide-react";
+import { GraduationCap } from "lucide-react";
 import { profile } from "../data/portfolio";
 import { Reveal } from "./Reveal";
 import { SectionHeading } from "./SectionHeading";
